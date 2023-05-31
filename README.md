@@ -2,5 +2,3 @@
 test
 ---
 first commit
----
-newbranch commit
